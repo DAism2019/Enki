@@ -1,6 +1,6 @@
 // getChatContent_ultimate_robust.js
 const puppeteer = require('puppeteer');
-const url = 'https://chatglm.cn/share/QFiIdhJM'; // 使用失败的URL进行测试
+const url = 'https://chat.z.ai/s/edc839d7-c59b-404e-afef-1683e29e2d8c'; 
 
 async function getChatContent(url) {
   let browser;
